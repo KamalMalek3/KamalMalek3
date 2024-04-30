@@ -35,6 +35,6 @@
 
    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.webp?v=1675612037919" alt="photoshop" width="40" height="40"/> </a> 
 
-    <a href="https://lightroom.adobe.com/lightroom-downloader" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/768px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+   <a href="https://lightroom.adobe.com/lightroom-downloader" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/768px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> 
     
 </p>
