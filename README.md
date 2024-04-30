@@ -16,7 +16,7 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a>
 
 
 
@@ -26,9 +26,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
- <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="nodejs" width="40" height="40"/> </a>  
+ <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_NodeJS.svg" alt="nodejs" width="40" height="40"/> </a>  
   
-  <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
+  <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a> 
   <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3d98eb3871f42ed7f81737063b7d5511?rik=Dc%2flz7Mx3L3YLQ&pid=ImgRaw&r=0" alt="cisco" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
