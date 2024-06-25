@@ -24,9 +24,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-
- <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_NodeJS.svg" alt="nodejs" width="40" height="40"/> </a>  
+<a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_NodeJS.svg" alt="nodejs" width="40" height="40"/> </a>  
 
 
   
@@ -34,10 +32,9 @@
   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a> 
   <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3d98eb3871f42ed7f81737063b7d5511?rik=Dc%2flz7Mx3L3YLQ&pid=ImgRaw&r=0" alt="cisco" width="40" height="40"/> </a> 
+  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
-
-   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.webp?v=1675612037919" alt="illustrator" width="40" height="40"/> </a> 
-
-   <a href="https://lightroom.adobe.com/lightroom-downloader" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/768px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="lightroom" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.webp?v=1675612037919" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://lightroom.adobe.com/lightroom-downloader" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/768px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="lightroom" width="40" height="40"/> </a> 
     
 </p>
