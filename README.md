@@ -31,7 +31,7 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon.png" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a> 
-  <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACisco_logo-1000px.png&psig=AOvVaw17NwDL1qvPIdy7A6pbcXIx&ust=1732549634915000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICHmcSo9YkDFQAAAAAdAAAAABAE" alt="cisco" width="40" height="40"/> </a> 
+  <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png?20120317134749" alt="cisco" width="80" height="40"/> </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.webp?v=1675612037919" alt="illustrator" width="40" height="40"/> </a> 
